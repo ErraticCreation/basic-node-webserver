@@ -4,5 +4,5 @@
 /tmp
 *.log
 
-# Ignore installed npm and bower packages
+# Ignore installed npm packages
 /node_modules
